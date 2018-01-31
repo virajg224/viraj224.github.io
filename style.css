@@ -1,7 +1,6 @@
-.title {
-  background-colour: rgb(84, 87, 91);
+h1 {
   font-family: 'Montserrat'
-  colour: white;
+  color: rgb(0,0,0);
   justify: center;
   }
   
